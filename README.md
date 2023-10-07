@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nada Jaradat</h1>
 <h3 align="center">from Palestine</h3>
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **react**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nadajaradat](https://github.com/nadajaradat)
 
