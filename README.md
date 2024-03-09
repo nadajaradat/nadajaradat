@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nada Jaradat</h1>
 <h3 align="center">from Palestine</h3>
 
-- 🌱 I’m currently learning **react**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nadajaradat](https://github.com/nadajaradat)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/nada-jaradat/](https://www.linkedin.com/in/nada-jaradat/)
+- 🌱 I’m currently a Computer Systems Engineering Student @ PTUK
 
 - 📫 How to reach me **nadajaradat2020@gmail.com**
-
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1XEdo23sIRw1foyEV8j-kwGTlkTaRZ7G7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
